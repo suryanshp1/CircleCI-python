@@ -1,6 +1,6 @@
 ## Python - CircleCI
 
-A simple circleci test app
+A simple circleci test app.
 
 ### Run the code
 
